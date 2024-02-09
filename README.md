@@ -1,15 +1,24 @@
-# 👋 Hi, I am Jonathan Gelin
+# 👋 Greetings! I'm Jonathan Gelin.
 
-👨‍🚀 I'm a freelance software architect with a passion for efficient development in web technologies, focusing on JavaScript/TypeScript and Node.js. Proficient in Nrwl/Nx, Angular, Cypress/Playwright, and related tooling.
+👨‍🚀 As a freelance software architect, my journey revolves around crafting efficient web solutions with a focus on JavaScript/TypeScript, Node.js, and expertise in [Nrwl/Nx](https://nx.dev/) alongside its ecosystem.
 
-🚀 Specializing in making development cycles smoother, I configure large code repositories and optimize deployment and testing processes.
+My passion extends across the spectrum of frontend frameworks, with a fondness for [React](https://react.dev/) and [Vue](https://vuejs.org/), complemented by a profound mastery in [Angular](https://angular.dev/).
 
-🛠️ Pride in establishing reliable testing strategies (Cypress/Playwrights, Jest, ...), ensuring code stands up to scrutiny.
+🚀 I thrive on streamlining development processes, from managing vast codebases to refining deployment and testing phases.
 
-🔄 Experienced in setting up practical continuous integration processes for a seamless transition from development to production.
+🛠️ I take pride in devising robust testing frameworks, utilizing tools like [Cypress](https://www.cypress.io), [Playwright](https://playwright.dev), and [Jest](https://jestjs.io), to fortify code integrity.
 
-🏗️ Exploration of micro-frontend architectures with single-spa and Webpack module federation, creating modular and scalable solutions.
+🔄 My experience encompasses crafting and implementing effective continuous integration workflows, facilitating a smooth evolution from development through to production.
 
-🎨 Keen interest in design systems, utilizing tools like Storybook to maintain consistent UI components.
+🏗️ I'm intrigued by the potential of micro-frontend architectures, employing [single-spa](https://single-spa.js.org/) and [Webpack Module Federation](https://webpack.js.org/concepts/module-federation/) for modular, scalable app structures.
 
-🔄 Embracing an agile mindset, I value collaboration, adaptability, and continuous improvement. Aligned with extreme programming principles, my approach emphasizes communication, simplicity, and feedback, ensuring efficient, resilient, and value-driven development.
+🎨 Design systems captivate me, especially when harmonizing UI components with tools like [Storybook](https://storybook.js.org).
+
+🔄 Embracing agility, I champion collaboration, adaptability, and perpetual growth. Adhering to extreme programming tenets, I prioritize communication, simplicity, and feedback, driving towards an efficient, robust, and value-oriented development lifecycle.
+
+
+## Last Articles:
+
+- ⚡ [Distributed e2e Task Execution with Nx for Playwright and Cypress](https://medium.com/@jgelin/nx-distribute-e2e-task-execution-for-playwright-and-cypress-e3aa8811842a)
+- ✌️ [Nx Plugin v2: Dynamic Project Configurations](https://medium.com/@jgelin/%EF%B8%8F-nx-plugin-v2-dynamic-project-configurations-6055ba700105)
+- ⚡ [The Super Power of Conventions with Nx](https://medium.com/@jgelin/the-super-power-of-conventions-with-nx-8d418150b679)
