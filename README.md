@@ -14,11 +14,18 @@ My passion extends across the spectrum of frontend frameworks, with a fondness f
 
 🎨 Design systems captivate me, especially when harmonizing UI components with tools like [Storybook](https://storybook.js.org).
 
-🔄 Embracing agility, I champion collaboration, adaptability, and perpetual growth. Adhering to extreme programming tenets, I prioritize communication, simplicity, and feedback, driving towards an efficient, robust, and value-oriented development lifecycle.
+🔄 Embracing agility, I champion collaboration, adaptability, and perpetual growth. Adhering to extreme programming tenets, I prioritize communication, simplicity, and feedback, driving toward an efficient, robust, and value-oriented development lifecycle.
 
 
 ## Last Articles:
 
+- 💎 [Discovering Nx Project Crystal’s Magic](https://medium.com/@jgelin/discovering-nx-project-crystals-magic-7f42faf2a135)
 - ⚡ [Distributed e2e Task Execution with Nx for Playwright and Cypress](https://medium.com/@jgelin/nx-distribute-e2e-task-execution-for-playwright-and-cypress-e3aa8811842a)
 - ✌️ [Nx Plugin v2: Dynamic Project Configurations](https://medium.com/@jgelin/%EF%B8%8F-nx-plugin-v2-dynamic-project-configurations-6055ba700105)
 - ⚡ [The Super Power of Conventions with Nx](https://medium.com/@jgelin/the-super-power-of-conventions-with-nx-8d418150b679)
+- 🚡 [Nx Targets Elevated (Part Two)](https://jgelin.medium.com/nx-targets-elevated-part-two-9edc56cf1a00)
+- 🚡 [Nx Targets Elevated (Part One)](https://jgelin.medium.com/nx-targets-elevated-part-one-f421062818e6)
+- [Inject Angular services in Storybook 7](https://jgelin.medium.com/inject-angular-services-in-storybook-7-c26b7f5a41e5)
+- [Expect Storybook actions in Cypress](https://jgelin.medium.com/expect-storybook-actions-in-cypress-36e9542d109d)
+- [Using Angular services in Storybook 6](https://jgelin.medium.com/using-angular-services-in-storybook-6f75924fd31d)
+
