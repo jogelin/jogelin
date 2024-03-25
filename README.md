@@ -22,7 +22,7 @@ My passion extends across the spectrum of frontend frameworks, with a fondness f
 ### [🌊 The Nx Series](https://jgelin.medium.com/the-nx-series-d83b92185539)
 
 - 🩹 [Nx Crystal Plugin Picking the Essentials](https://jgelin.medium.com/nx-crystal-plugin-picking-the-essentials-16688f05228c)
-- 📤 [Local Library Development with Nx Release and Verdaccio]([https://jgelin.medium.com/target-exclusions-in-nx-project-crystal-fbabce816b21](https://itnext.io/local-library-development-with-nx-release-and-verdaccio-019af5c5bec0))
+- 📤 [Local Library Development with Nx Release and Verdaccio](https://itnext.io/local-library-development-with-nx-release-and-verdaccio-019af5c5bec0)
 - ⛔ [Target Exclusions in Nx Project Crystal](https://jgelin.medium.com/target-exclusions-in-nx-project-crystal-fbabce816b21)
 - ⏰ [It’s Time to Talk About Import Map, Micro Frontend, and Nx Monorepo](https://javascript.plainenglish.io/its-time-to-talk-about-import-map-micro-frontend-and-nx-monorepo-0b8e2c07568a)
 - 💎 [Discovering Nx Project Crystal’s Magic](https://medium.com/@jgelin/discovering-nx-project-crystals-magic-7f42faf2a135)
