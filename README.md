@@ -34,9 +34,9 @@ My passion extends across the spectrum of frontend frameworks, with a fondness f
 - 🚡 [Nx Targets Elevated (Part Two)](https://jgelin.medium.com/nx-targets-elevated-part-two-9edc56cf1a00)
 - 🚡 [Nx Targets Elevated (Part One)](https://jgelin.medium.com/nx-targets-elevated-part-one-f421062818e6)
 
-### Micro-Frontends Architecture
+### [Micro-Frontends Architecture](https://gelinjo.hashnode.dev/series/micro-frontend)
 
-- ⏰ [It’s time to talk about Import Map, Micro Frontend, and Nx Monorepo](https://gelinjo.hashnode.dev/series/micro-frontend)
+- ⏰ [It’s time to talk about Import Map, Micro Frontend, and Nx Monorepo](https://gelinjo.hashnode.dev/its-time-to-talk-about-import-map-micro-frontend-and-nx-monorepo)
 
 ### Storybook
 
