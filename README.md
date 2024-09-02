@@ -18,7 +18,7 @@ My passion extends across the spectrum of frontend frameworks, with a fondness f
 
 🔄 Embracing agility, I champion collaboration, adaptability, and perpetual growth. Adhering to extreme programming tenets, I prioritize communication, simplicity, and feedback, driving toward an efficient, robust, and value-oriented development lifecycle.
 
-## Talks
+## 📣 Talks
 
 - 2024-10-18: [React Brussel](https://www.react.brussels/#speakers)
 - 2024-10-17: [DevFest Nantes](https://devfest2024.gdgnantes.com/en/speakers/jonathan_gelin/)
