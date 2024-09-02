@@ -49,11 +49,11 @@ My passion extends across the spectrum of frontend frameworks, with a fondness f
 - 🚡 [Nx Targets Elevated (Part Two)](https://jgelin.medium.com/nx-targets-elevated-part-two-9edc56cf1a00)
 - 🚡 [Nx Targets Elevated (Part One)](https://jgelin.medium.com/nx-targets-elevated-part-one-f421062818e6)
 
-### [Micro-Frontends Architecture](https://gelinjo.hashnode.dev/series/micro-frontend)
+### 🧩 [Micro-Frontends Architecture](https://gelinjo.hashnode.dev/series/micro-frontend)
 
 - ⏰ [It’s time to talk about Import Map, Micro Frontend, and Nx Monorepo](https://gelinjo.hashnode.dev/its-time-to-talk-about-import-map-micro-frontend-and-nx-monorepo)
 
-### Storybook
+### 🎨 Storybook
 
 - [Inject Angular services in Storybook 7](https://jgelin.medium.com/inject-angular-services-in-storybook-7-c26b7f5a41e5)
 - [Expect Storybook actions in Cypress](https://jgelin.medium.com/expect-storybook-actions-in-cypress-36e9542d109d)
