@@ -1,5 +1,7 @@
 # 👋 Greetings! I'm Jonathan Gelin.
 
+## About Me 😄
+
 👨‍🚀 As a freelance software architect, my journey revolves around crafting efficient web solutions with a focus on JavaScript/TypeScript, Node.js, and expertise in [Nrwl/Nx](https://nx.dev/) alongside its ecosystem.
 
 My passion extends across the spectrum of frontend frameworks, with a fondness for [React](https://react.dev/) and [Vue](https://vuejs.org/), complemented by a profound mastery in [Angular](https://angular.dev/).
@@ -16,9 +18,22 @@ My passion extends across the spectrum of frontend frameworks, with a fondness f
 
 🔄 Embracing agility, I champion collaboration, adaptability, and perpetual growth. Adhering to extreme programming tenets, I prioritize communication, simplicity, and feedback, driving toward an efficient, robust, and value-oriented development lifecycle.
 
+## Talks
+
+- 2024-10-18: [React Brussel](https://www.react.brussels/#speakers)
+- 2024-10-17: [DevFest Nantes](https://devfest2024.gdgnantes.com/en/speakers/jonathan_gelin/)
+- 2024-10-07: [Monorepo World Conf](https://monorepo.world/talks/poly-monorepos-the-best-of-the-two-worlds)
+- 2024-05-17: [TIL CONF](https://youtu.be/04fcqC8Ghjc?t=12385) 📺
 
 
-## Last Articles:
+## 📚 Blog https://gelinjo.hashnode.dev/
+
+### 🍒 [Checky-Picked Nx Updates](https://gelinjo.hashnode.dev/series/cherry-picked-nx-updates)
+
+- [🍒 Cherry-Picked Nx v19.6 Updates](https://gelinjo.hashnode.dev/cherry-picked-nx-v196-updates)
+- [🍒 Cherry-Picked Nx v19.5 Updates](https://gelinjo.hashnode.dev/cherry-picked-nx-v195-updates)
+- [🍒 Cherry-Picked Nx v19.4 Updates](https://gelinjo.hashnode.dev/cherry-picked-nx-v194-updates)
+- [More...](https://gelinjo.hashnode.dev/series/cherry-picked-nx-updates)
 
 ### 🌊 [The Nx Series](https://gelinjo.hashnode.dev/series/nx)
 
@@ -44,6 +59,9 @@ My passion extends across the spectrum of frontend frameworks, with a fondness f
 - [Expect Storybook actions in Cypress](https://jgelin.medium.com/expect-storybook-actions-in-cypress-36e9542d109d)
 - [Using Angular services in Storybook 6](https://jgelin.medium.com/using-angular-services-in-storybook-6f75924fd31d)
 
-## Talks
-
-- TIL CONF: https://www.youtube.com/watch?v=04fcqC8Ghjc&t=15641s
+## 📫 Connect with Me
+![image](https://github.com/user-attachments/assets/08012fad-5e15-40be-8a99-75dc97d9c3c8)
+[![image](https://github.com/user-attachments/assets/965e5a71-6be6-4f68-a9a1-7fd90658aa4b)](https://www.linkedin.com/in/jonathan-gelin/)
+[![image](https://github.com/user-attachments/assets/86473cb1-7755-4089-88b1-371c1f6c9cd2)](mailto:gelin.jonathan@gmail.com)
+[![image](https://github.com/user-attachments/assets/712f396f-b46d-40ee-9cbb-6d286a1f2507)](https://medium.com/@jgelin)
+[![image](https://github.com/user-attachments/assets/88935e82-7772-4ded-84d0-3710c797aa01)](https://github.com/jogelin)
