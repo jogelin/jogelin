@@ -1,7 +1,5 @@
 # 👋 Greetings! I'm Jonathan Gelin.
 
-## About Me 😄
-
 👨‍🚀 As a freelance software architect, my journey revolves around crafting efficient web solutions with a focus on JavaScript/TypeScript, Node.js, and expertise in [Nrwl/Nx](https://nx.dev/) alongside its ecosystem.
 
 My passion extends across the spectrum of frontend frameworks, with a fondness for [React](https://react.dev/) and [Vue](https://vuejs.org/), complemented by a profound mastery in [Angular](https://angular.dev/).
