@@ -20,9 +20,8 @@ My passion extends across the spectrum of frontend frameworks, with a fondness f
 
 - 2024-10-18: [React Brussel](https://www.react.brussels/#speakers)
 - 2024-10-17: [DevFest Nantes](https://devfest2024.gdgnantes.com/en/speakers/jonathan_gelin/)
-- 2024-10-07: [Monorepo World Conf](https://monorepo.world/talks/poly-monorepos-the-best-of-the-two-worlds)
+- 2024-10-07: [Monorepo World Conf](https://monorepo.world/talks/poly-monorepos-the-best-of-the-two-worlds) - [📺](https://youtu.be/SLQp8U10UMo?t=10931)
 - 2024-05-17: [TIL CONF](https://youtu.be/04fcqC8Ghjc?t=12385) 📺
-
 
 ## 📚 Blog https://gelinjo.hashnode.dev/
 
@@ -35,6 +34,7 @@ My passion extends across the spectrum of frontend frameworks, with a fondness f
 
 ### 🌊 [The Nx Series](https://gelinjo.hashnode.dev/series/nx)
 
+- 🏘️ [Poly Monorepos with Nx](https://gelinjo.hashnode.dev/poly-monorepos-with-nx)
 - 🔎 [Deep Dive into Nx Affected](https://gelinjo.hashnode.dev/deep-dive-into-nx-affected)
 - 👥 [Reproducible Nx Workspace with HugeNx’s Conventions](https://gelinjo.hashnode.dev/reproducible-nx-workspace-with-hugenxs-conventions)
 - 🩹 [Nx Crystal Plugin Picking the Essentials](https://gelinjo.hashnode.dev/nx-crystal-plugin-picking-the-essentials)
