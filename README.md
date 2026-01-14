@@ -1,65 +1,102 @@
-# 👋 Greetings! I'm Jonathan Gelin.
+# 👋 Hi, I'm Jonathan Gelin
 
-👨‍🚀 As a freelance software architect, my journey revolves around crafting efficient web solutions with a focus on JavaScript/TypeScript, Node.js, and expertise in [Nrwl/Nx](https://nx.dev/) alongside its ecosystem.
+**Developer Experience Architect | AI Tooling & Nx Expert**
 
-My passion extends across the spectrum of frontend frameworks, with a fondness for [React](https://react.dev/) and [Vue](https://vuejs.org/), complemented by a profound mastery in [Angular](https://angular.dev/).
+I help teams align architecture, tooling, and practices using Nx, strong conventions, and AI-assisted automation.
 
-🚀 I thrive on streamlining development processes, from managing vast codebases to refining deployment and testing phases.
+🌐 **[smartsdlc.dev](https://smartsdlc.dev)** — Build on Foundations, Scale with AI.
 
-🛠️ I take pride in devising robust testing frameworks, utilizing tools like [Cypress](https://www.cypress.io), [Playwright](https://playwright.dev), and [Jest](https://jestjs.io), to fortify code integrity.
+---
 
-🔄 My experience encompasses crafting and implementing effective continuous integration workflows, facilitating a smooth evolution from development through to production.
+![smartSDLC Banner](https://smartsdlc.dev/linkedin-banner.png)
 
-🏗️ I'm intrigued by the potential of micro-frontend architectures, employing [single-spa](https://single-spa.js.org/) and [Webpack Module Federation](https://webpack.js.org/concepts/module-federation/) for modular, scalable app structures.
+<p align="center">
+  <strong>Developer Experience</strong> → <strong>AI Orchestration</strong> → <strong>Engineering Foundations</strong>
+</p>
 
-🎨 Design systems captivate me, especially when harmonizing UI components with tools like [Storybook](https://storybook.js.org).
+---
 
-🔄 Embracing agility, I champion collaboration, adaptability, and perpetual growth. Adhering to extreme programming tenets, I prioritize communication, simplicity, and feedback, driving toward an efficient, robust, and value-oriented development lifecycle.
+## 🎯 What I Do
 
-## 📣 Talks
+- **Nx Monorepos** — Polyglot build systems (TypeScript, Java, Go, Python, .NET) unified under one workspace
+- **Developer Experience** — CI/CD optimization, testing strategies, and workflow automation
+- **AI-Augmented Tooling** — Architecture-aware AI assistants and Claude Code plugins
+- **Micro-Frontend Architecture** — Single-spa, Module Federation, Import Maps
 
-- 2024-10-18: [React Brussel](https://www.react.brussels/#speakers)
-- 2024-10-17: [DevFest Nantes](https://devfest2024.gdgnantes.com/en/speakers/jonathan_gelin/)
-- 2024-10-07: [Monorepo World Conf](https://monorepo.world/talks/poly-monorepos-the-best-of-the-two-worlds) - [📺](https://youtu.be/SLQp8U10UMo?t=10931)
-- 2024-05-17: [TIL CONF](https://youtu.be/04fcqC8Ghjc?t=12385) 📺
+**Certifications:** Nx Champion • Nx Expert
 
-## 📚 Blog https://gelinjo.hashnode.dev/
+---
 
-### 🍒 [Checky-Picked Nx Updates](https://gelinjo.hashnode.dev/series/cherry-picked-nx-updates)
+## 🔭 Currently Working On
 
-- [🍒 Cherry-Picked Nx v19.6 Updates](https://gelinjo.hashnode.dev/cherry-picked-nx-v196-updates)
-- [🍒 Cherry-Picked Nx v19.5 Updates](https://gelinjo.hashnode.dev/cherry-picked-nx-v195-updates)
-- [🍒 Cherry-Picked Nx v19.4 Updates](https://gelinjo.hashnode.dev/cherry-picked-nx-v194-updates)
-- [More...](https://gelinjo.hashnode.dev/series/cherry-picked-nx-updates)
+- **AI-Powered SDLC** — Building architecture-aware AI frameworks for developer experience
+- **Claude Code Plugins** — Custom agents and skills for AI-augmented development
+- **HugeNx** — Convention-driven Nx workspace generator for reproducible architectures
 
-### 🌊 [The Nx Series](https://gelinjo.hashnode.dev/series/nx)
+---
 
-- 🏘️ [Poly Monorepos with Nx](https://gelinjo.hashnode.dev/poly-monorepos-with-nx)
-- 🔎 [Deep Dive into Nx Affected](https://gelinjo.hashnode.dev/deep-dive-into-nx-affected)
-- 👥 [Reproducible Nx Workspace with HugeNx’s Conventions](https://gelinjo.hashnode.dev/reproducible-nx-workspace-with-hugenxs-conventions)
-- 🩹 [Nx Crystal Plugin Picking the Essentials](https://gelinjo.hashnode.dev/nx-crystal-plugin-picking-the-essentials)
-- 📤 [Local Library Development with Nx Release and Verdaccio](https://gelinjo.hashnode.dev/local-library-development-with-nx-release-and-verdaccio)
-- ⛔ [Target Exclusions in Nx Project Crystal](https://gelinjo.hashnode.dev/target-exclusions-in-nx-project-crystal)
-- 💎 [Discovering Nx Project Crystal’s Magic](https://gelinjo.hashnode.dev/discovering-nx-project-crystals-magic)
-- ⚡ [Distributed e2e Task Execution with Nx for Playwright and Cypress](https://medium.com/@jgelin/nx-distribute-e2e-task-execution-for-playwright-and-cypress-e3aa8811842a)
-- ✌️ [Nx Plugin v2: Dynamic Project Configurations](https://medium.com/@jgelin/%EF%B8%8F-nx-plugin-v2-dynamic-project-configurations-6055ba700105)
-- ⚡ [The Super Power of Conventions with Nx](https://medium.com/@jgelin/the-super-power-of-conventions-with-nx-8d418150b679)
-- 🚡 [Nx Targets Elevated (Part Two)](https://jgelin.medium.com/nx-targets-elevated-part-two-9edc56cf1a00)
-- 🚡 [Nx Targets Elevated (Part One)](https://jgelin.medium.com/nx-targets-elevated-part-one-f421062818e6)
+## 📣 Recent Talks
 
-### 🧩 [Micro-Frontends Architecture](https://gelinjo.hashnode.dev/series/micro-frontend)
+| Date | Conference | Topic |
+|------|------------|-------|
+| 2024-10 | [React Brussels](https://www.react.brussels/#speakers) | Poly Monorepos |
+| 2024-10 | [DevFest Nantes](https://devfest2024.gdgnantes.com/en/speakers/jonathan_gelin/) | Poly Monorepos |
+| 2024-10 | [Monorepo World](https://monorepo.world/talks/poly-monorepos-the-best-of-the-two-worlds) | [📺 Video](https://youtu.be/SLQp8U10UMo?t=10931) |
+| 2024-05 | [TIL Conf](https://youtu.be/04fcqC8Ghjc?t=12385) | 📺 Video |
 
-- ⏰ [It’s time to talk about Import Map, Micro Frontend, and Nx Monorepo](https://gelinjo.hashnode.dev/its-time-to-talk-about-import-map-micro-frontend-and-nx-monorepo)
+---
 
-### 🎨 Storybook
+## 📚 Blog — [smartsdlc.dev](https://smartsdlc.dev)
 
-- [Inject Angular services in Storybook 7](https://jgelin.medium.com/inject-angular-services-in-storybook-7-c26b7f5a41e5)
-- [Expect Storybook actions in Cypress](https://jgelin.medium.com/expect-storybook-actions-in-cypress-36e9542d109d)
-- [Using Angular services in Storybook 6](https://jgelin.medium.com/using-angular-services-in-storybook-6f75924fd31d)
+- [AI-Powered SDLC: Building an AI Framework for Developer Experience](https://smartsdlc.dev/blog/ai-powered-sdlc-building-an-ai-framework-for-developer-experience) — 2025-01
+- [10 Tips for Successful Nx Plugin Architecture](https://smartsdlc.dev/blog/10-tips-for-successful-nx-plugin-architecture) — 2025-01
+- [Poly Monorepos with Nx](https://smartsdlc.dev/blog/poly-monorepos-with-nx) — 2024-10
+- [Cherry-Picked Nx v19.6 Updates](https://smartsdlc.dev/blog/cherry-picked-nx-v196-updates) — 2024-08
+- [Cherry-Picked Nx v19.5 Updates](https://smartsdlc.dev/blog/cherry-picked-nx-v195-updates) — 2024-07
+- [Cherry-Picked Nx v19.4 Updates](https://smartsdlc.dev/blog/cherry-picked-nx-v194-updates) — 2024-06
+- [Deep Dive into Nx Affected](https://smartsdlc.dev/blog/deep-dive-into-nx-affected) — 2024-06
+- [Reproducible Nx Workspace with HugeNx's Conventions](https://smartsdlc.dev/blog/reproducible-nx-workspace-with-hugenxs-conventions) — 2024-05
+- [Nx Crystal Plugin Picking the Essentials](https://smartsdlc.dev/blog/nx-crystal-plugin-picking-the-essentials) — 2024-03
+- [Local Library Development with Nx Release and Verdaccio](https://smartsdlc.dev/blog/local-library-development-with-nx-release-and-verdaccio) — 2024-03
+- [Target Exclusions in Nx Project Crystal](https://smartsdlc.dev/blog/target-exclusions-in-nx-project-crystal) — 2024-03
+- [Import Maps, Micro Frontends, and Nx Monorepos](https://smartsdlc.dev/blog/its-time-to-talk-about-import-map-micro-frontend-and-nx-monorepo) — 2024-03
+- [Discovering Nx Project Crystal's Magic](https://smartsdlc.dev/blog/discovering-nx-project-crystals-magic) — 2024-02
 
-## 📫 Connect with Me
-![image](https://github.com/user-attachments/assets/08012fad-5e15-40be-8a99-75dc97d9c3c8)
-[![image](https://github.com/user-attachments/assets/965e5a71-6be6-4f68-a9a1-7fd90658aa4b)](https://www.linkedin.com/in/jonathan-gelin/)
-[![image](https://github.com/user-attachments/assets/86473cb1-7755-4089-88b1-371c1f6c9cd2)](mailto:gelin.jonathan@gmail.com)
-[![image](https://github.com/user-attachments/assets/712f396f-b46d-40ee-9cbb-6d286a1f2507)](https://medium.com/@jgelin)
-[![image](https://github.com/user-attachments/assets/88935e82-7772-4ded-84d0-3710c797aa01)](https://github.com/jogelin)
+[View all articles →](https://smartsdlc.dev)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jogelin&show_icons=true&theme=dark&bg_color=0f1117&title_color=10b981&icon_color=10b981&text_color=e2e8f0&border_color=1e293b" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogelin&layout=compact&theme=dark&bg_color=0f1117&title_color=10b981&text_color=e2e8f0&border_color=1e293b" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://smartsdlc.dev">
+    <img src="https://img.shields.io/badge/smartsdlc.dev-0f1117?style=for-the-badge&logo=astro&logoColor=10b981" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/jonathan-gelin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/jogelin">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://x.com/jonathan_gelin">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+  </a>
+  <a href="https://bsky.app/profile/smartsdlc.dev">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
+  </a>
+  <a href="mailto:smartsdlc.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
