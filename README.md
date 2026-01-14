@@ -66,18 +66,6 @@ I help teams align architecture, tooling, and practices using Nx, strong convent
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jogelin&show_icons=true&theme=dark&bg_color=0f1117&title_color=10b981&icon_color=10b981&text_color=e2e8f0&border_color=1e293b" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jogelin&layout=compact&theme=dark&bg_color=0f1117&title_color=10b981&text_color=e2e8f0&border_color=1e293b" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Connect
 
 <p align="center">
